@@ -5,6 +5,8 @@
 Bu projede, [LC Waikiki](https://www.lcwaikiki.com) ürün detay sayfasındaki "Bunları Da Beğenebilirsiniz" alanına benzer şekilde tasarlanmıştır. 
 
 
+![Image](https://github.com/user-attachments/assets/3f62942b-bc46-4bc6-b1fb-bdb4914603b5)
+
 ## 🚀 Özellikler
 
 -  Gelişmiş ürün kaydırma (carousel) yapısı
